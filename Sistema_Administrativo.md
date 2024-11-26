@@ -1,6 +1,6 @@
 # Casos de Teste - Sistema Administrativo
 
-**Ambiente:** Web, Navegador Chrome
+**Ambiente:** Web, Navegador Microsoft Edge
 
 **Autor:** Gabriel Sbruzzi
 
