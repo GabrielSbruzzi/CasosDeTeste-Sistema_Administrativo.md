@@ -1,6 +1,7 @@
 # Casos de Teste - Sistema Administrativo
 
 **Ambiente:** Web, Navegador Chrome
+
 **Autor:** Gabriel Sbruzzi
 
 Este arquivo contém a documentação detalhada dos casos de teste aplicados ao projeto de sistema administrativo.
